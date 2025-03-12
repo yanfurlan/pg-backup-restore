@@ -35,7 +35,7 @@ Este projeto automatiza o processo de backup e restauração de um banco de dado
    DB_PORT = '5432'
    DB_NAME = 'seu_banco'
    DB_USER = 'seu_usuario'
-   DB_PASSWORD = 'sua_senha'  # Considere métodos mais seguros para armazenar a senha em produção
+   DB_PASSWORD = 'sua_senha'  
 
    BACKUP_DIR = '/caminho/para/backups'
    ```
