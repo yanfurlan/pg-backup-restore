@@ -91,7 +91,3 @@ Para agendar backups diários, você pode configurar uma *cron job* (em sistemas
 ## Contribuição
 
 Contribuições são bem-vindas! Se você deseja sugerir melhorias ou corrigir algum problema, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
